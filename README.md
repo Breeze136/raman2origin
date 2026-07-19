@@ -6,6 +6,8 @@ Merge batch Raman txt exports (Horiba LabRAM / LabSpec) into an **Origin-ready m
 
 **v1.0.0** · [Release 页面下载 Windows 单文件 exe](https://github.com/Breeze136/raman2origin/releases)（`raman2origin-v1.0.0-win64.exe`，~30 MB，免安装、免 Python 环境）
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21444273.svg)](https://doi.org/10.5281/zenodo.21444273)
+
 ---
 
 ## 适用场景

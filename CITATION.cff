@@ -7,4 +7,6 @@ authors:
     given-names: "Junjie"
 abstract: "A lightweight tool to merge Horiba LabRAM/LabSpec Raman txt exports into Origin-ready multi-column tables with waterfall preview, featuring a zero-dependency GUI."
 license: MIT
-date-released: "2026-07-17"
+doi: 10.5281/zenodo.21444273
+version: v1.0.0
+date-released: "2026-07-19"
