@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "raman2origin: Batch merge Raman txt data for Origin plotting"
+authors:
+  - family-names: "Gao"
+    given-names: "Junjie"
+abstract: "A lightweight tool to merge Horiba LabRAM/LabSpec Raman txt exports into Origin-ready multi-column tables with waterfall preview, featuring a zero-dependency GUI."
+license: MIT
+date-released: "2026-07-17"
